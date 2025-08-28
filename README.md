@@ -30,7 +30,7 @@ Here's a list of the technologies and tools I'm proficient in.
 
 #### 💻 Tools & Platforms
 
-`Git` `Docker` `Kubernetes` `VS Code` `Jupyter Notebooks` `[Add more]`
+`Git` `Docker` `VS Code` `Jupyter Notebooks`
 
 ---
 
@@ -40,8 +40,4 @@ Feel free to connect with me!
 
 * **LinkedIn:** [Your LinkedIn Profile URL](www.linkedin.com/in/subodh-khanduri)
 
----
 
-### 📊 My GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Subodhkhanduri&show_icons=true&theme=default)
