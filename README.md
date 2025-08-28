@@ -8,8 +8,7 @@ I'm passionate about **["Data Science," "Machine Learning", "Operations Research
 
 * **Generative AI & LLMs: Diving deeper into fine-tuning models like GPT and Llama for specific use cases.**
 * **Prompt Engineering: Developing advanced techniques to get the most out of foundational models.**
-* **[A specific skill, e.g., "Frontend polish with React and Next.js"]**
-* **[Another interest, e.g., "Cloud architecture with AWS/Azure"]**
+* **MLOps: Building robust pipelines for deploying and monitoring machine learning models in production.**
 
 ---
 
@@ -45,4 +44,4 @@ Feel free to connect with me!
 
 ### 📊 My GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Subodhkhanduri&show_icons=true&theme=default)
